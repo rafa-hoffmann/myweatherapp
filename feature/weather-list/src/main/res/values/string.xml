@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="weather_humidity">💧 %1$s</string>
+    <string name="weather_temperature_max">⬆ %1$s</string>
+    <string name="weather_temperature_min">⬇ %1$s</string>
     <string name="weather_current_location">📌 current location</string>
     <string name="weather_feels_like">feels like %1$s</string>
     <string name="weather_fragment_label">Current Weather</string>
