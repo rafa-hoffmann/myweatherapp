@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Lisbon"
+  },
+  {
+    "id": 2,
+    "name": "Madrid"
+  },
+  {
+    "id": 3,
+    "name": "Paris"
+  },
+  {
+    "id": 4,
+    "name": "Berlin"
+  },
+  {
+    "id": 5,
+    "name": "Copenhagen"
+  },
+  {
+    "id": 6,
+    "name": "Rome"
+  },
+  {
+    "id": 7,
+    "name": "London"
+  },
+  {
+    "id": 8,
+    "name": "Dublin"
+  },
+  {
+    "id": 9,
+    "name": "Prague"
+  },
+  {
+    "id": 10,
+    "name": "Vienna"
+  }
+]

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="weather_humidity">💧 %1$s</string>
+    <string name="weather_current_location">📌 current location</string>
+    <string name="weather_feels_like">feels like %1$s</string>
+    <string name="weather_fragment_label">Current Weather</string>
+
+    <string name="cities_state_error">Failed to load default cities</string>
+    <string name="weather_state_error">Failed to load some weather reports</string>
+    <string name="location_permission_error">Location permission not granted</string>
+</resources>

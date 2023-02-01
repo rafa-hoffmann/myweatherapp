@@ -1,0 +1,6 @@
+<resources>
+
+    <style name="Base.Theme.Myweatherapp" parent="Theme.Material3.DayNight.NoActionBar" />
+
+    <style name="Theme.Myweatherapp" parent="Base.Theme.Myweatherapp" />
+</resources>
